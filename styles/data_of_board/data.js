@@ -1,1 +1,3 @@
-console.log("hello")
+export function Greet() {
+    alert("hello");
+}
